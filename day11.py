@@ -38,5 +38,5 @@ y={'fathername':'shrikant kshirsagar','vay':'59','taluka':'jath'}
 # x.clear()
 # print(x)
 
-del x['age']
-print(x)
+# del x['age']
+# print(x)
